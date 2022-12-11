@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_text">BMI Calculator</string>
+    <string name="weight_counter_txt">50</string>
+    <string name="age_counter_txt">25</string>
+    <string name="weight_title_txt">Weight (kg)</string>
+    <string name="age_title_txt">Age</string>
+    <string name="height_title_txt"></string>
+    <string name="button_text">Calculate</string>
+    <string name="button2_text">Calculate Again</string>
+    <string name="button3_text">Back</string>
+    <string name="button4_text">About App</string>
+    <string name="m">m</string>
+    <string name="cm">cm</string>
+    <string name="height">Height</string>
+    <string name="YourBmiText">Your BMI</string>
+    <string name="bmiValue">20.5</string>
+    <string name="aboutTitle">About</string>
+    <string name="copyright">Github: https://www.github.com</string>
+    <string name="author_developer">Developed by:</string>
+    <string name="author_name">Fauzi Rentah</string>
+    <string name="author_cid">2020221172</string>
+    <string name="author_group">NBCS2409A</string>
+    <string name="author_code">ICT602 Mobile Technology &amp; Development</string>
+    <string name="author_course">Mobile Technology &amp; Development</string>
+    <string name="author_program">CS240 Bachelor of Information Technology</string>
+    <string name="bmiTips">You are underweight So you may need to put on some weight.</string>
+    <string-array name="tips_array">
+        <item>Health risk: Malnutrition risk.</item>
+        <item>Health risk: Low risk. </item>
+        <item>Health risk: Enhanced risk.</item>
+        <item>Health risk: Medium risk.</item>
+        <item>Health risk: High risk.</item>
+        <item>Health risk: Very high risk.</item>
+    </string-array>
+</resources>
