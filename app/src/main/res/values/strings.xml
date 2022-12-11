@@ -9,6 +9,7 @@
     <string name="button_text">Calculate</string>
     <string name="button2_text">Calculate Again</string>
     <string name="button3_text">Back</string>
+    <string name="button5_text">Github Repo</string>
     <string name="button4_text">About App</string>
     <string name="m">m</string>
     <string name="cm">cm</string>
@@ -16,7 +17,7 @@
     <string name="YourBmiText">Your BMI</string>
     <string name="bmiValue">20.5</string>
     <string name="aboutTitle">About</string>
-    <string name="copyright">Github: https://www.github.com</string>
+    <string name="copyright">https://github.com/fauzirentah/BMICalculator</string>
     <string name="author_developer">Developed by:</string>
     <string name="author_name">Fauzi Rentah</string>
     <string name="author_cid">2020221172</string>
